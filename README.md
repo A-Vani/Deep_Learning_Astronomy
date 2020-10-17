@@ -4,5 +4,7 @@ Understanding deep learning using SDSS data to find if a galaxy is elliptical or
 There are two folders available in this respository:
 - DL_using_colors
 - DL_using_images
+
 DL_using_colors uses the data gathered by SDSS in the u, g, r, i and z filter, uses a sequencial model from tensorflow to create a simple NN.
+
 DL_using_images uses the images captured by SDSS and uses a simple convolution neural network to figure out the type of the galaxy.

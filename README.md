@@ -1,6 +1,9 @@
 # Deep_Learning_Astronomy
+
 Understanding deep learning using SDSS data to find if a galaxy is elliptical or spiral.
-** The Goal ** is to understand basic deep learning techniques by using tensorflow. Here a simple neural network is implimented to find whether a galaxy is **spiral** or **elliptical**.
+
+**The Goal** is to understand basic deep learning techniques by using tensorflow. Here a simple neural network is implimented to find whether a galaxy is **spiral** or **elliptical**.
+
 There are two folders available in this respository:
 - DL_using_colors
 - DL_using_images
